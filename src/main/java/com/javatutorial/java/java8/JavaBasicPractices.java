@@ -1,6 +1,6 @@
 package com.javatutorial.java.java8;
 
-public class Practice {
+public class JavaBasicPractices {
 
   /*
   Java is an object-oriented, class-based, concurrent, secured and general-purpose computer-programming language
