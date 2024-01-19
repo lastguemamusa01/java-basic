@@ -1,4 +1,4 @@
-package com.javatutorial.java.java8;
+package com.javatutorial.java.java8.JavaBasicPractices;
 
 public class JavaBasicPractices {
 
