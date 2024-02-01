@@ -181,7 +181,7 @@ public class TestStudent {
     // anonymous object
     new Calculation().fact(4);
 
-    // creating multiple ocjects by one type only
+    // creating multiple objects by one type only
 
     StudentC s1 = new StudentC(4, "caribbean"), s2 = new StudentC(5, "balcony");
     s1.display();
