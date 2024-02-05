@@ -27,6 +27,14 @@ public class TestContructor {
   Can constructor perform other tasks instead of initialization ?
   Yes, like object creation, starting a thread, calling a method, etc. You can perform any operation in the constructor as you perform in the method
 
+  Class: Human Object: Man, Woman
+
+  Class: Fruit Object: Apple, Banana, Mango, Guava wtc.
+
+  Class: Mobile phone Object: iPhone, Samsung, Moto
+
+  Class: Food Object: Pizza, Burger, Samosa
+
    */
 
   int id;
